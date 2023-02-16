@@ -1,0 +1,6 @@
+.readmore{
+    text-align: justify;
+    max-width: calc(30em * 0.5);
+    word-wrap: break-word;
+
+}
